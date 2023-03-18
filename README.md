@@ -24,5 +24,6 @@ Web scraping and APIs is the concept from the syllabus that appeals most to me b
 | ------------- |:--------------------:|------:|
 |What people had in their houses in the 1700s in rural Pennsylvania|Researchers can study gender roles between men and women based on different possessions each group has. This project can be investigated through creating data visualizations of the different items and their gender associations.|https://repository.upenn.edu/mead/26/|
 | A database of Scottish Witchcraft|You can examine the accused witches of Scotland and the date and location of their trial. You can create visualizations to analyze the timeline of accusations and compile the most common reasons for being accused.| http://witches.shca.ed.ac.uk/ |
+|Makeup Shade Dataset|You can examine US, Nigeria, India, and Japan's most popular beauty brands and their foundation shade range.|https://www.kaggle.com/datasets/shivamb/makeup-shades-dataset/versions/1?resource=download |
 
 #
