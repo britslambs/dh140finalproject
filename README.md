@@ -4,7 +4,7 @@ https://devoelmoorecenter.com/2020/11/08/data-science-and-the-humanities-a-mutua
 
 1. This article interests me because it discusses humanities students entering the STEM field which connects to the career path I want to pursue in the future. 
 
-![datavisualizationmarkdown.webp](attachment:datavisualizationmarkdown.webp)
+![github image](https://user-images.githubusercontent.com/119825654/226084679-8cc9a40f-0462-4d5a-8d5b-225666650592.jpg)
 
 2. I have been able to create simple data visualizations in previous DH courses but I hope to make more advanced and creative data visualizations in this course using Python. 
 
