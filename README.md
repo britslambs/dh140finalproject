@@ -43,7 +43,7 @@ My motivation for choosing this data set and topic comes from my own personal in
 • What do the results reveal about their respective beauty industries and society beauty standards?
 
 # Data Exploration and Presentation
-The data analyzes the foundation colors based on the hexadecimal color, hue, saturation, value, and lightness. These color analyses were done through Adobe Photoshop. The Group Columns is referring to country. This column is from 0-7. These values and their countries/brands can be seen below.
+The data analyzes the foundation colors based on the hexadecimal color, hue, saturation, value, and lightness. These color analyses were done through Adobe Photoshop,using the CIE Lab Color Model. It is important to note that according to the CIELAB color model, the value 0 is defined as black while the value 100 is defined as 0. This means that the lighter the value, the darker the color.The Group Columns is referring to country. This column is from 0-7. These values and their countries/brands can be seen below.
 
 • 0: Fenty Beauty's PRO FILT'R Foundation Only
 • 1: Make Up For Ever's Ultra HD Foundation Only
