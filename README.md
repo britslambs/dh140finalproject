@@ -42,6 +42,10 @@ My motivation for choosing this data set and topic comes from my own personal in
 
 • What do the results reveal about their respective beauty industries and societal beauty standards?
 
+• How do the founders of beauty companies play a role in the inclusitivity of their makeup shades?
+
+
+
 
 # Binder 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/britslambs/dh140finalproject.git/HEAD)
