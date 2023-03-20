@@ -37,7 +37,8 @@ My motivation for choosing this data set and topic comes from my own personal in
 
 ## Research Questions
 • How does best-selling brands and their foundation shade range in Western countries and Eastern countries compare? 
-• What do the results reveal about their respective beauty industry and society beauty standards?
+
+• What do the results reveal about their respective beauty industries and society beauty standards?
 
 # Data Exploration and Presentation
 The data analyzes the foundation colors based on the hexadecimal color, hue, saturation, value, and lightness. These color analyses were done through Adobe Photoshop. The Group Columns is referring to country. This column is from 0-7. These values and their countries/brands can be seen below.
