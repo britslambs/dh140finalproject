@@ -40,7 +40,7 @@ My motivation for choosing this data set and topic comes from my own personal in
 ## Research Questions
 • How does best-selling brands and their foundation shade range in Western countries and Eastern countries compare? 
 
-• What do the results reveal about their respective beauty industries and society beauty standards?
+• What do the results reveal about their respective beauty industries and societal beauty standards?
 
 
 # Binder 
