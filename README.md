@@ -1,4 +1,6 @@
-# dh140finalproject
+# Makeup Shades and Beauty Standards
+### Britney Lam
+### 3/20/2023
 # Data and Viz of Interest
 https://devoelmoorecenter.com/2020/11/08/data-science-and-the-humanities-a-mutually-beneficial-relationship/
 
