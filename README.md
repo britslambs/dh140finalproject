@@ -1,4 +1,4 @@
-# Makeup Shades and Beauty Standards
+# Makeup Shades and Beauty Standards: DH140 Final Project
 ### Britney Lam
 ### 3/20/2023
 # Data and Viz of Interest
