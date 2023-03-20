@@ -56,7 +56,7 @@ The data analyzes the foundation colors based on the hexadecimal color, hue, sat
 
 A downside to this data collection is that it only contains information about the best-selling products from a limited humber of sources. For U.S. products, sources are POPSUGAR, Amazon, StyleCaster, Refinery29, Statista, BEAUTY/crew. For recommended products for POC, sources are VIBE, Byrdie, The FADER, Allure, Glamour, Fast Company, THE CUT, Bustle, HuffPost, more.com, BuzzFeed, Refinery29. For Nigerian products, sources are BeautyInLagos, Beauty Geek, Lux Afrique, Zikel Cosmetics, Pulse.ng Pulse.ng again, Information Nigeria Women, Girly Essentials, Winnie The Make-Up Artist, Jumia Travel. In addition, it also leaves out how the best-sellng Japanese and Indian products were found. 
 
-#Binder 
+# Binder 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/britslambs/dh140finalproject.git/HEAD)
 .. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/britslambs/dh140finalproject.git/HEAD
