@@ -38,9 +38,7 @@ I chose create my project based on the Makeup Shade Dataset. This 2018 dataset i
 My motivation for choosing this data set and topic comes from my own personal interest in beauty and makeup. Outside of class, I am part of the club 'Aurum', a beauty/skincare club on campus. In addition, the topic of foundation shades is personal to me as I had difficulty finding the correct skintone of foundation for my skintone as a POC. Furthermore, being Asian-American, I often struggle with balancing both Asian and Western beauty standards. While Asian beauty standards focus on paleness, Western beauty standards idealizes tan skin. In addition, as beauty products become more globalized, I have noticed that makeup brands have started focusing on inclustivity and pigmentation of all their products to cater towards a wide demographic. I am interested to see how these standards can be seen through this dataset. I plan to analyze U.S foundation collection shades versus Japanese, Indian, and Nigerian foundational collection shades. I would like to note that even though Nigeria is not in Asia, many countries with POC also tend to idealized paler skin. 
 
 ## Research Questions
-• How does best-selling brands and their foundation shade range in Western countries and Eastern countries compare? 
-
-• What do the results reveal about their respective beauty industries and societal beauty standards?
+• How does best-selling brands and their foundation shade range in Western countries and Eastern countries compare?  What do the results reveal about their respective beauty industries and societal beauty standards?
 
 • How do the founders of beauty companies play a role in the inclusitivity of their makeup shades?
 
